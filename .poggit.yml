@@ -1,8 +1,0 @@
----
-branches:
-- PocketMine-MP
-projects:
-  MultiWorld:
-    path: MultiWorld
-    icon: icon.png
-...
