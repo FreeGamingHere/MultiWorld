@@ -10,7 +10,7 @@ use multiworld\generator\skyblock\SkyBlockGenerator;
 use multiworld\generator\void\VoidGenerator;
 use multiworld\util\ConfigManager;
 use multiworld\util\LanguageManager;
-use pocketmine\level\generator\Generator;
+use pocketmine\level\generator\GeneratorManager as Generator;
 use pocketmine\plugin\PluginBase;
 
 /**
